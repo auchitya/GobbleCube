@@ -1,0 +1,6 @@
+START_DATE = "start_date"
+END_DATE = "end_date"
+DATE_FORMAT = "date_format"
+SALES_CSV_PATH = "sales_csv_path"
+MAPPING_CSV_PATH = "mapping_csv_path"
+MARKET_SHARE_CSV_PATH = "market_share_csv_path"
